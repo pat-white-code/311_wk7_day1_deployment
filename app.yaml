@@ -1,4 +1,4 @@
 runtime: nodejs10
 
 env_variables:
-  CLOUD_INSTANCE: fake-instance
+  CLOUD_INSTANCE: brightbird-music-1572199072174:us-central1:aca-week-3
